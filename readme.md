@@ -7,7 +7,7 @@ Work done as part of my iOs Development for iPhone and iPad class
 
 * Swift 4 
 * Xcode 10
-* 
+
 
 ### License
 
